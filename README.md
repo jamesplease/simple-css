@@ -3,7 +3,7 @@ version 0.1.0
 
 ## What is it?
 
-A short set of guidelines for writing scaleable, semantic CSS.
+An opinionated set of guidelines for writing scaleable, semantic CSS.
 
 ## What it is not
 
@@ -12,6 +12,8 @@ A replacement for tools for writing CSS like LESS or SASS.
 It is more comparable to other philosophies on how to write `CSS`, like `OOCSS` or `SMACSS`. While not entirely orthogonal to either of these philosophies, there are some differences. Of the two, it more closely aligns with OOCSS.
 
 # The Principles
+
+Simple CSS can be summarized in 5 principles. They'll be listed here, then elaborated on in the rest of this document.
 
 1. Use a preprocessor
 2. Scope everything
@@ -23,7 +25,7 @@ It is more comparable to other philosophies on how to write `CSS`, like `OOCSS` 
 
 ## Use a preprocessor
 
-Preprocessors have a lot to offer you in terms of functionality when writing `CSS`, but I won't elaborate on their merits here. The primary reason that this is the first principle is that preprocessors make the second principle, keeping things scoped, so simple to follow. More on that below.
+Preprocessors have a lot to offer you in terms of functionality when writing `CSS`, but I won't elaborate on all of their merits here. In addition to all of those gains, using preprocessors makes following the second principle, keeping things scoped, incredibly simple to follow. More on that below.
 
 ## Scope everything
 
