@@ -116,8 +116,10 @@ A `CSS` philosophy that has been gaining attention lately is `SMACSS`. There are
 <header class="headroom unpinned">
 ```
 
+When the rules of Simple CSS are followed the second example is no more likely to cause collisions. But the class names used are shorter and easier to digest.
+
 ## Exceptions
 
-There are exceptions to every rule. Always do what makes sense on a per-project, and even per-element, basis.
+Simple CSS outlines guidelines, not strict rules. Always do what you believe makes the most sense on a per-project, and even per-element, basis.
 
 
