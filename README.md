@@ -1,4 +1,4 @@
-#simple-cSS
+#simple-css
 version 0.1.0
 
 ## What is it?
