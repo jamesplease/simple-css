@@ -102,7 +102,7 @@ This allows you to use adjectives without fear of collision.
 
 ## Use short names
 
-An `CSS` philosophy that has been gaining followers lately is `SMACSS`. There are many benefits to using `SMACSS`, which is, no doubt, why it is becoming more widespread. But SMACSS promotes writing class names that are unintuitive and very verbose. I believe that following the rules of Simple CSS allows you to use short class names with all of the gains of `SMACSS`.
+A `CSS` philosophy that has been gaining attention lately is `SMACSS`. There are many benefits to using `SMACSS`, which is, no doubt, why it is becoming more widespread. But SMACSS promotes writing class names that are unintuitive and very verbose. I believe that following the rules of Simple CSS allows you to use short class names with all of the gains of `SMACSS`.
 
 **An example of SMACSS verbosity** (from the excellent plugin headroom.js)
 
