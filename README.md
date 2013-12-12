@@ -3,7 +3,7 @@ version 0.1.0
 
 ## What is it?
 
-An opinionated set of guidelines for writing scaleable, semantic CSS.
+An opinionated set of guidelines for writing organized & scaleable CSS.
 
 ## What it is not
 
