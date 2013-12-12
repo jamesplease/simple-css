@@ -79,6 +79,7 @@ Use adjectives to differentiate between elements within a scope. For instance,
 In these two examples, we use adjectives within the scope to target specific elements. Though the same class names are used, `left` and `right`, there is no collision because they are scoped.
 
 Adjectives can be stateful, such as: `active` `disabled` `hover`
+
 They can also refer to position and order: `one` `two` `three` `left` `right` `top`
 
 Styling unscoped adjectives is discouraged. Instead, attaching adjectives to noun classes or elements is encouraged. See the examples below
